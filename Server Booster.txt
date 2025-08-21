@@ -1,6 +1,5 @@
 lanalycan
 nierrisky
 mariatheshork
-symp.y
 rosefall24
 sympyy.esposa
