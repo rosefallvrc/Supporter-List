@@ -3,7 +3,6 @@ karjio
 rogue517
 phantomcollective
 serrivel
-securedwolf
 symp.y
 winter_vibe
 levi243
